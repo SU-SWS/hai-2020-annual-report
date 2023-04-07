@@ -10,9 +10,6 @@ Netlify URL: https://hai-2020-annual-report.netlify.app
 
 The repo was built off [SU-SWS/assets_stanford_edu](https://github.com/SU-SWS/assets_stanford_edu)
 
-## Static Site Files
-The flat-file site was created by a third-party vendor. Our support of the site includes hosting and deploying, but not troubleshooting or making changes to the site. If there is a change needed, we will be supplied new files from the vendor to replace the existing site files, and then make a new deployment.
-
 ## Netlify Basics
 - The Netlify site is directly connected to this repo through Github.
 - The `/public` directory is where the static site files are (it is the `docroot` in other words).
